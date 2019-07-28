@@ -1,0 +1,68 @@
+/*
+Md Korban Sheikh
+korbandiu@gmail.com
+*/
+
+.nav-link {
+    color: #8e8989 !important;
+}
+
+.first{
+	background: url(../img/baner.png);
+	background-size: cover;
+	max-width: 100%;
+	background-repeat: no-repeat;
+}
+.first h2{
+	text-align: center;
+	color: white;
+	font-size: 40px;
+}
+.first h3{
+	text-align: center;
+	color: white;
+}
+.first button {
+    margin: 0 auto;
+    display: block;
+    background: #99c50a;
+    padding: 13px 25px;
+    border: none;
+    border-radius: 15px;
+    
+}
+.second{
+
+}
+.second img{
+	margin: 0 auto;
+    display: block;
+}
+.second h2{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+        color: #777474;
+}
+.second p{
+    text-align: center;
+        color: #777474;
+}
+.third{
+
+}
+.third h2{
+	
+}
+.third p{
+	
+}
+.third button{
+	
+}
+.one{
+
+}
+.two{
+	
+}
